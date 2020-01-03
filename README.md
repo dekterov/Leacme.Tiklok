@@ -5,6 +5,7 @@
 This application features the ability to view time-related tabs including the current local time, the timer, and a time zone converter.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704265-8781da80-2d96-11ea-8377-55224dbde8bf.png)
 
 ## Application Compiling
 
